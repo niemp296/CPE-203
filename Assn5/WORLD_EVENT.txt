@@ -1,0 +1,12 @@
+1) how to trigger the event?
+To trigger the event, press a mouse-click anywhere in the game.
+
+2) what should happen when the event is triggered?
+When the event is triggered, the grass will be freezed and turned into ice. 
+
+3) what the affected entities should do?
+Some miners within the world changing event will turn into a giant baby and run faster than normal miners 
+to get the Ore. The giant baby can also eat the wyverns.
+
+4) what the new entity is and how it should behave?
+When the event is triggered, the new entity wyvern will appear and can destroy blacksmith and vein.

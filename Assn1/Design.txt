@@ -1,0 +1,6 @@
+findOpenAround(): With this method, one option is to move it to WordModel class,
+However, since it wants to return Optional<Point>, I think it would be better to not move it.
+setAlpha(): since the paremeter does not need to call any variables from any classes, it would be 
+better to not move it.
+load(): I don't fully understand what Scanner does, but the method depends more on Scanner than
+WorldModel and ImageStore. That's why it I think it would be better to not move it.
